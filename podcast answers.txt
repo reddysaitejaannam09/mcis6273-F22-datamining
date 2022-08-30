@@ -1,0 +1,25 @@
+ 
+ 1. List 3 things that you learned from this podcast?
+ 
+ A.  As the iterative programming environment and for presenting results have just proven to be so valuable, notebook environments like Jupyter notebook are going to become more and more the core infrastructure for data analysis in industry, academia, and journalism, even though it still takes a lot of time to clean it up.
+ 
+ B. There is a strong movement in science toward open science, which encourages sharing not only data and conclusions but also the code used to get at those discoveries.  to use and download,the language has really seems to move up the stack from simply being the packages. Python ought to be open and unrestricted.
+ 
+ C .Healthcare and the way doctors track and record their work using medical records really captivated me. The domain is v data-driven. But entry is quite challenging. One is that there is patient danger within the highly complicated and regulated software systems. It then turned to have a look into data analysis, another field that heavily depends  on data
+ 
+ 2.
+ What is your reaction to the podcast? Pick at least one point Adam brought up in the interview that you agree with and
+list your reason why.
+ 
+ From his one of the important points that he mentioned in the podcast , I agree that Jupyter's has best features is the notebook itself, which functions as the software's front end along with that we can observe  Jupyter's standards, which they established for how to communicate with a kernel, the structure of notebooks, and the highly unique JSON structure, may have had a longer-lasting effect. So, in a way, they resemble an organization that sets standards, such as the World Wide Web This is the proper format for documenting and sharing data analysis or scientific computing. As a result, several more organizations have developed on top of Jupyter and those standards.
+ 
+ 3.After listening to the podcast, do you think you are more interested or less interested in learning from Jupyter notebooks
+on Github?
+
+>After Listening to the podcast I feel I am more intersted in learning Jypter notebooks beacuse it can be sued for repersentatiuon of our woek , So that we can see both code and the results altogether.
+
+>We can refer someone's work if we got stuck at saome point and it has the best security services.
+
+>Jupyter Notebook is language- and platform-independent due to its representation in the JSON format. Another benefit is that Jupyter may be used with a variety of languages and converted to a variety of file formats, including Markdown, HTML, and PDF.
+
+>As its iterative programming environment and for presenting results,  gradually it will become the essential infrastructure for data analysis in business,
